@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Fake-News.png) no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.box{
+    width: 450px;
+    background: rgba(234, 234, 238, 0.637);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20%;
+    margin-bottom: 2%;
+    color: black;
+    font-family: 'Century Gothic',sans-serif;
+}
